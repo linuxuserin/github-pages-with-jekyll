@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2020-08-12
+---
+
 Troubleshooting build errors
 
 If Jekyll encounters an error building your GitHub Pages site locally or on GitHub, you can use error messages to troubleshoot. For more information about error messages and how to view them, see "About Jekyll build errors for GitHub Pages sites."
